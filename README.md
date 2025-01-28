@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Vikas Garg!
 
-<!--
-**vikasgarg2105/vikasgarg2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Web Designer & React.js Developer** with 4+ years of experience in creating modern, responsive, and user-centric websites. Skilled in:
+- 💻 **Frontend Development**: HTML5, CSS3, JavaScript, React.js, Redux
+- 🎨 **Design Tools**: Figma, Photoshop
+- 🚀 **Frameworks**: Bootstrap, SASS, Next.js, WordPress
 
-Here are some ideas to get you started:
+### 👨‍💻 What I’m Currently Working On:
+- 🌱 Mastering the **MERN Stack** and **JavaScript for DSA**.
+- 🔭 Building responsive and scalable **React applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Looking to Collaborate On:
+- Frontend projects with a focus on **performance** and **user experience**.
+- Open-source projects 🚀.
+
+### 💬 Ask Me About:
+- **Web Designing** and **React.js Development**
+- Converting designs to responsive websites 🎨.
+
+### 📫 How to Reach Me:
+- 📧 [vikasgarg2105@gmail.com](mailto:vikasgarg2105@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vikas-garg-2105)
+
+### ⚡ Fun Fact:
+I’m on a mission to achieve a **1 Crore package** at Google or a top-tier company 🎯.
